@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="newpatchaddition.cpp" />
     <ClCompile Include="test2.cpp" />
     <ClCompile Include="TestFile.cpp" />
   </ItemGroup>
